@@ -1,0 +1,16 @@
+{
+  "reminders": [
+    {
+      "id": 1,
+      "message": "Cek tekanan kabel batch A",
+      "color": "black",
+      "active": true
+    },
+    {
+      "id": 2,
+      "message": "Meeting jam 14:00",
+      "color": "red",
+      "active": true
+    }
+  ]
+}
